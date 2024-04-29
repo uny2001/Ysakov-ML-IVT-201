@@ -1,0 +1,2 @@
+print("fox")
+print("bam")
